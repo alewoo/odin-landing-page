@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  padding: 100px;
+  /* padding: 100px; */
 }
 
 ul {
@@ -21,13 +21,17 @@ a {
   display: flex;
   /* background-color: gray; */
   justify-content: space-between;
-  margin-bottom: 100px;
+  /* margin-bottom: 100px; */
+  padding: 50px 100px;
+  background-color: #fff6c7;
 }
 
 .navbar {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 100px;
+  /* margin-bottom: 100px; */
+  padding: 50px 100px;
+  background-color: #fff6c7;
 }
 
 .livewell-logo {
@@ -81,7 +85,9 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: 100px;
+  /* margin-bottom: 100px; */
+  padding: 50px 100px;
+  background-color: #b9ddc2;
 }
 
 .titleinfo {
@@ -122,7 +128,9 @@ img {
   /* flex-direction: column; */
   align-items: center;
   gap: 30px;
-  margin-bottom: 100px;
+  /* margin-bottom: 100px; */
+  padding: 50px 100px;
+  background-color: #8fc7cd;
 }
 
 .text-quote {
@@ -140,6 +148,8 @@ img {
 .CTA {
   display: flex;
   justify-content: space-evenly;
+  padding: 50px 100px;
+  background-color: #feffed;
 }
 
 .left-cta {
